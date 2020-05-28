@@ -4,3 +4,11 @@ This is an example project for Pdfmake using the most recent Angular version.
 PDFMAKE:-  pdfmake is awesome light weight pure Javascript pdf generator https://github.com/bpampuch/pdfmake
 
 This is based off of 'Pdfmake-with-Angular-4-and-Angular-CLI', but updated to Angular 6+
+
+## Requirements 
+- npm and git
+
+## Get This Example Running
+- Clone repo
+- Run `` npm install ``
+- Start project with `` npm start ``
